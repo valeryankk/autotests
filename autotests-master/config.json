@@ -1,0 +1,103 @@
+{
+  "test": {
+    "base_url": "https://test.example.com",
+    "login_url": "https://keycloak.test.example.com"
+
+  },
+
+  "uat": {
+    "base_url": "https://uat.example.com",
+    "login_url": "https://keycloak.uat.example.com"
+  },
+
+  "credentials": {
+    "admin_user": {
+      "username": "X1",
+      "password": "X1"
+    },
+    "expert_user": {
+      "username": "X2",
+      "password": "X2"
+    },
+    "outside_employee_NNG": {
+      "username": "X3",
+      "password": "X3"
+    },
+    "outside_employee_HNT": {
+      "username": "X3",
+      "password": "X3"
+    },
+    "outside_employee_MSH": {
+      "username": "X4",
+      "password": "X4"
+    },
+    "outside_employee_MVL": {
+      "username": "X5",
+      "password": "X5"
+    },
+    "outside_employee_MGN": {
+      "username": "X6",
+      "password": "X6"
+    },
+    "outside_employee_YML": {
+      "username": "X7",
+      "password": "X7"
+    },
+    "outside_employee_VST": {
+      "username": "X8",
+      "password": "X8"
+    },
+    "outside_employee_ORN": {
+      "username": "X9",
+      "password": "X9"
+    },
+    "specialist_NNG": {
+      "username": "X10",
+      "password": "X10"
+    },
+    "specialist_HNT": {
+      "username": "X11",
+      "password": "X11"
+    },
+    "specialist_MSH": {
+      "username": "X12",
+      "password": "X12"
+    },
+    "specialist_MVL": {
+      "username": "X13",
+      "password": "X13"
+    },
+    "specialist_MGN": {
+      "username": "X14",
+      "password": "X14"
+    },
+    "specialist_YML": {
+      "username": "X15",
+      "password": "X15"
+    },
+    "specialist_VST": {
+      "username": "X16",
+      "password": "X16"
+    },
+    "specialist_ORN": {
+      "username": "X17",
+      "password": "X17"
+    },
+    "expert_NTC_user": {
+      "username": "X18",
+      "password": "X18"
+    },
+    "outside_employee_CC": {
+      "username": "X19",
+      "password": "X19"
+    },
+    "geologist": {
+      "username": "X20",
+      "password": "X20"
+    },
+    "user_PG": {
+      "username": "X21",
+      "password": "X21"
+    }
+  }
+}
